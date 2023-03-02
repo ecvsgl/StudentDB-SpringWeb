@@ -1,0 +1,1 @@
+This is a homework done for Sabanci University - IT526 Design Patterns for Enterprice Java.
